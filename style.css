@@ -1,1 +1,15 @@
-p { background-color:red;}
+.otsikko {
+    color: darkred;
+}
+
+.listaukset {
+    color: pink;
+}
+
+.jatkoteksti {
+    color: red;
+}
+
+#paaotsikko {
+    color: blue;
+}
